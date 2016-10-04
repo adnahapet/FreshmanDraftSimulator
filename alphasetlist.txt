@@ -1,0 +1,292 @@
+Animate Dead,Enchant Dead Creature,,1B,Uncommon,Black,4
+Bad Moon,Enchantment,,1B,Rare,Black,1 	
+Black Knight,Summon Knight,2/2,BB,Uncommon,Black,2 
+Bog Wraith,Summon Wraith,3/3,3B,Uncommon,Black,3 	
+Contract from Below,Sorcery,,B,Rare,Black,1 
+Cursed Land,Enchant Land,,2BB,Uncommon,Black, 	
+Dark Ritual,Interrupt,,B,Common,Black,5 	
+Darkpact,Sorcery,,BBB,Rare,Black,1 	
+Deathgrip,Enchantment,,BB,Uncommon,Black, 
+Deathlace,Interrupt,,B,Rare,Black,3	
+Demonic Attorney,Sorcery,,1BB,Rare,Black,1 	
+Demonic Hordes,Summon Demons,5/5,3BBB,Rare,Black,1 
+Demonic Tutor,Sorcery,,1B,Uncommon,Black,2 	
+Drain Life,Sorcery,,X1B,Common,Black,7
+Drudge Skeletons,Summon Skeletons,1/1,1B,Common,Black, 	
+Fear,Enchant Creature,,BB,Common,Black,6
+Frozen Shade,Summon Shade,0/1,2B,Common,Black,6 	
+Gloom,Enchantment,,2B,Uncommon,Black,3 	
+Howl from Beyond,Instant,,XB,Common,Black,8	
+Hypnotic Specter,Summon Specter,2/2,1BB,Uncommon,Black,2 	
+Lich,Enchantment,,BBBB,Rare,Black,1	
+Lord of the Pit,Summon Demon,7/7,4BBB,Rare,Black,1 	
+Mind Twist,Sorcery,,XB,Rare,Black,1 	
+Nether Shadow,Summon Shadow,1/1,BB,Rare,Black,1 
+Nettling Imp,Summon Imp,1/1,2B,Uncommon,Black, 
+Nightmare,Summon Nightmare,*/*,5B,Rare,Black,1 
+Paralyze,Enchant Creature,,B,Common,Black,11 	
+Pestilence,Enchantment,,2BB,Common,Black,13 	
+Plague Rats,Summon Rats,*/*,2B,Common,Black,12 
+Raise Dead,Sorcery,,B,Common,Black, 	
+Royal Assassin,Summon Assassin,1/1,1BB,Rare,Black,1 
+Sacrifice,Interrupt,,B,Uncommon,Black,3 	
+Scathe Zombies,Summon Zombies,2/2,2B,Common,Black,7	
+Scavenging Ghoul,Summon Ghoul,2/2,3B,Uncommon,Black, 	
+Sengir Vampire,Summon Vampire,4/4,3BB,Uncommon,Black,2 	
+Simulacrum,Instant,,1B,Uncommon,Black,3 	
+Sinkhole,Sorcery,,BB,Common,Black,14 	
+Terror,Instant,,1B,Common,Black,5	
+Unholy Strength,Enchant Creature,,B,Common,Black,5 	
+Wall of Bone,Summon Wall,1/4,2B,Uncommon,Black,5 	
+Warp Artifact,Enchant Artifact,,BB,Rare,Black,1 	
+Weakness,Enchant Creature,,B,Common,Black,12 
+Will-O'-The-Wisp,Summon Will-O'-The-Wisp,0/1,B,Rare,Black,1
+Word of Command,Instant,,BB,Rare,Black,1
+Zombie Master,Summon Lord,2/3,1BB,Rare,Black,1
+Air Elemental,Summon Elemental,4/4,3UU,Uncommon,Blue,4
+Ancestral Recall,Instant,,U,Rare,Blue,1 
+Animate Artifact,Enchant Non-Creature Artifact,,3U,Uncommon,Blue,3 	
+Blue Elemental Blast,Interrupt,,U,Common,Blue,3
+Braingeyser,Sorcery,,XUU,Rare,Blue,1
+Clone,Summon Clone,0/0,3U,Uncommon,Blue,3
+Control Magic,Enchant Creature,,2UU,Uncommon,Blue,3 
+Copy Artifact,Enchantment,,1U,Rare,Blue,1
+Counterspell,Interrupt,,UU,Uncommon,Blue,2 
+Creature Bond,Enchant Creature,,1U,Common,Blue,9	
+Drain Power,Sorcery,,UU,Rare,Blue,1
+Feedback,Enchant Enchantment,,2U,Uncommon,Blue,4 
+Flight,Enchant Creature,,U,Common,Blue,11 	
+Invisibility,Enchant Creature,,UU,Common,Blue,12 	
+Jump,Instant,,U,Common,Blue,13 
+Lifetap,Enchantment,,UU,Uncommon,Blue,5 	
+Lord of Atlantis,Summon Lord of Atlantis,2/2,UU,Rare,Blue,1 
+Magical Hack,Interrupt,,U,Rare,Blue,1 	
+Mahamoti Djinn,Summon Djinn,5/6,4UU,Rare,Blue,1 	
+Mana Short,Instant,,2U,Rare,Blue,1 	
+Merfolk of the Pearl Trident,Summon Merfolk,1/1,U,Common,Blue,6 	
+Phantasmal Forces,Summon Phantasm,4/1,3U,Uncommon,Blue,4	 	
+Phantasmal Terrain,Enchant Land,,UU,Common,Blue,14 	 	
+Phantom Monster,Summon Phantasm,3/3,3U,Uncommon,Blue,6 	 	
+Pirate Ship,Summon Ship,4/3,4U,Rare,Blue,3 	
+Power Leak,Enchant Enchantment,,1U,Common,Blue,5	
+Power Sink,Interrupt,,XU,Common,Blue,5	 	
+Prodigal Sorcerer,Summon Wizard,1/1,2U,Common,Blue,6 	 	
+Psionic Blast,Instant,,2U,Uncommon,Blue,3 	 	
+Psychic Venom,Enchant Land,,1U,Common,Blue,7 		
+Sea Serpent,Summon Serpent,5/5,5U,Common,Blue,9 	 	
+Siren's Call,Instant,,U,Uncommon,Blue,6 	 	
+Sleight of Mind,Interrupt,,U,Rare,Blue,1 	 	
+Spell Blast,Interrupt,,XU,Common,Blue,5 	
+Stasis,Enchantment,,1U,Rare,Blue,1	
+Steal Artifact,Enchant Artifact,,2UU,Uncommon,Blue,4 	 	
+Thoughtlace,Interrupt,,U,Rare,Blue,1 	 	
+Time Walk,Sorcery,,1U,Rare,Blue,1	 	
+Timetwister,Sorcery,,2U,Rare,Blue,1	 	
+Twiddle,Instant,,U,Common,Blue,10 	
+Unsummon,Instant,,U,Common,Blue,11 	 	
+Vesuvan Doppelganger,Summon Doppelganger,0/0,3UU,Rare,Blue,1 	 	
+Volcanic Eruption,Sorcery,,XUUU,Rare,Blue,1	 	
+Wall of Air,Summon Wall,1/5,1UU,Uncommon,Blue,5	 	
+Wall of Water,Summon Wall,0/5,1UU,Uncommon,Blue,5	 	
+Water Elemental,Summon Elemental,5/4,3UU,Uncommon,Blue,5 	 	
+Aspect of Wolf,Enchant Creature,,1G,Rare,Green,1 	 	
+Berserk,Instant,,G,Uncommon,Green,1 	 	
+Birds of Paradise,Summon Mana Birds,0/1,G,Rare,Green,1 	 	
+Camouflage,Instant,,G,Uncommon,Green,3	 	
+Channel,Sorcery,,GG,Uncommon,Green,2 	 	
+Cockatrice,Summon Cockatrice,2/4,3GG,Rare,Green,1 	 	
+Craw Wurm,Summon Wurm,6/4,4GG,Common,Green,6 	
+Elvish Archers,Summon Elves,2/1,1G,Rare,Green,1 	
+Fastbond,Enchantment,,G,Rare,M,Green,1
+Fog,Instant,,G,Common,Green,13 	
+Force of Nature,Summon Force,8/8,2GGGG,Rare,Green,1 	
+Fungusaur,Summon Fungusaur,2/2,3G,Rare,Green,1 	
+Gaea's Liege,Summon Gaea's Liege,*/*,3GGG,Rare,Green,1 	
+Giant Growth,Instant,,G,Common,Green,6 	
+Giant Spider,Summon Spider,2/4,3G,Common,Green,6
+Grizzly Bears,Summon Bears,2/2,1G,Common,Green,8 	 	
+Hurricane,Sorcery,,XG,Uncommon,Green,4 	 	
+Ice Storm,Sorcery,,2G,Uncommon,Green,5 	 	
+Instill Energy,Enchant Creature,,G,Uncommon,Green,4 	 	
+Ironroot Treefolk,Summon Treefolk,3/5,4G,Common,Green,13 	 	
+Kudzu,Enchant Land,,1GG,Rare,Green,1 	 	
+Ley Druid,Summon Cleric,1/1,2G,Uncommon,Green,2 
+Lifeforce,Enchantment,,GG,Uncommon,Green,3 	 	
+Lifelace,Interrupt,,G,Rare,Green,1	 	
+Living Artifact,Enchant Artifact,,G,Rare,Green,1 	 	
+Living Lands,Enchantment,,3G,Rare,Green,1	 	
+Llanowar Elves,Summon Elves,1/1,G,Common,Green,6 	 	
+Lure,Enchant Creature,,1GG,Uncommon,Green,2 	 	
+Natural Selection,Instant,,G,Rare,Green,1 	 	
+Regeneration,Enchant Creature,,1G,Common,Green,6 	 	
+Regrowth,Sorcery,,1G,Uncommon,Green,4 	 	
+Scryb Sprites,Summon Faeries,1/1,G,Common,Green,5 	 	
+Shanodin Dryads,Summon Nymphs,1/1,G,Common,Green,5 	 	
+Stream of Life,Sorcery,,XG,Common,Green,11	 	
+Thicket Basilisk,Summon Basilisk,2/4,3GG,Uncommon,Green,4 	 	
+Timber Wolves,Summon Wolves,1/1,G,Rare,Green,1 	 	
+Tranquility,Sorcery,,2G,Common,Green,13	 	
+Tsunami,Sorcery,,3G,Uncommon,Green,3 	 	
+Verduran Enchantress,Summon Enchantress,0/2,1GG,Rare,Green,1 	
+Wall of Brambles,Summon Wall,2/3,2G,Uncommon,Green,3	 	
+Wall of Ice,Summon Wall,0/7,2G,Uncommon,Green,4 	 	
+Wall of Wood,Summon Wall,0/3,G,Common,Green,12 	 	
+Wanderlust,Enchant Creature,,2G,Uncommon,Green,2 		
+War Mammoth,Summon Mammoth,3/3,3G,Common,Green,7 	 	
+Web,Enchant Creature,,G,Rare,Green,1		
+Wild Growth,Enchant Land,,G,Common,Green,8 	 	
+Burrowing,Enchant Creature,,R,Uncommon,Red,13 	 	
+Chaoslace,Interrupt,,R,Rare,Red,1 	 	
+Disintegrate,Sorcery,,XR,Common,Red,5 	 	
+Dragon Whelp,Summon Dragon,2/3,2RR,Uncommon,Red,2 	 	
+Dwarven Demolition Team,Summon Dwarves,1/1,2R,Uncommon,Red,6  	
+Dwarven Warriors,Summon Dwarves,1/1,2R,Common,Red,13 	 	
+Earth Elemental,Summon Elemental,4/5,3RR,Uncommon,Red, 	 	
+Earthbind,Enchant Flying Creature,,R,Common,Red,1 	 	
+Earthquake,Sorcery,,XR,Rare,Red,1 	 	
+False Orders,Instant,,R,Common,Red, 	 	
+Fire Elemental,Summon Elemental,5/4,3RR,Uncommon,Red,4 	 	
+Fireball,Sorcery,,XR,Common,Red,5	 	
+Firebreathing,Enchant Creature,,R,Common,Red,7 	 	
+Flashfires,Sorcery,,3R,Uncommon,Red,3 	 	
+Fork,Interrupt,,RR,Rare,Red,1 	 	
+Goblin Balloon Brigade,Summon Goblins,1/1,R,Uncommon,Red,3 	 	
+Goblin King,Summon Goblin King,2/2,1RR,Rare,Red,1 	 	
+Granite Gargoyle,Summon Gargoyle,2/2,2R,Rare,Red,1 	 	
+Gray Ogre,Summon Ogre,2/2,2R,Common,Red,9 	 	
+Hill Giant,Summon Giant,3/3,3R,Common,Red,13 	 	
+Hurloon Minotaur,Summon Minotaur,2/3,1RR,Common,Red,10 	 	
+Ironclaw Orcs,Summon Orcs,2/2,1R,Common,Red,11 	 	
+Keldon Warlord,Summon Lord,*/*,2RR,Uncommon,Red,3 		
+Lightning Bolt,Instant,,R,Common,Red,3	 	
+Mana Flare,Enchantment,,2R,Rare,Red,1	 	
+Manabarbs,Enchantment,,3R,Rare,Red,1 	 	
+Mons's Goblin Raiders,Summon Goblins,1/1,R,Common,Red,5 	 	
+Orcish Artillery,Summon Orcs,1/3,1RR,Uncommon,Red,6 	 	
+Orcish Oriflamme,Enchantment,,3R,Uncommon,Red,3 	 	
+Power Surge,Enchantment,,RR,Rare,Red,1 	 	
+Raging River,Enchantment,,RR,Rare,Red,1 		
+Red Elemental Blast,Instant,,R,Common,Red,6 	 	
+Roc of Kher Ridges,Summon Roc,3/3,3R,Rare,Red,1 	
+Rock Hydra,Summon Hydra,0/0,XRR,Rare,Red,1 	 	
+Sedge Troll,Summon Troll,2/2,2R,Rare,Red,2 	 	
+Shatter,Instant,,1R,Common,Red,6 	 	
+Shivan Dragon,Summon Dragon,5/5,4RR,Rare,Red,1 	
+Smoke,Enchantment,,RR,Rare,Red,1 	 	
+Stone Giant,Summon Giant,3/4,2RR,Uncommon,Red,3 	 	
+Stone Rain,Sorcery,,2R,Common,Red,9 
+Tunnel,Instant,,R,Uncommon,Red,6 	 	
+Two-Headed Giant of Foriys,Summon Giant,4/4,4R,Rare,Red,1 	 	
+Uthden Troll,Summon Troll,2/2,2R,Uncommon,Red,4 	 	
+Wall of Fire,Summon Wall,0/5,1RR,Uncommon,Red,3 	 	
+Wall of Stone,Summon Wall,0/8,1RR,Uncommon,Red,3 	
+Wheel of Fortune,Sorcery,,2R,Rare,Red,1 	
+Animate Wall,Enchant Wall,,W,Rare,Red,1 	
+Armageddon,Sorcery,,3W,Rare,Red,1 	
+Balance,Sorcery,,1W,Rare,Red,1 	
+Benalish Hero,Summon Hero,1/1,W,Common,White,5 
+Black Ward,Enchant Creature,,W,Common,White,8
+Blaze of Glory,Instant,,W,Rare,White,4 
+Blessing,Enchant Creature,,WW,Rare,White,1 
+Blue Ward,Enchant Creature,,W,Uncommon,White,8 	
+Castle,Enchantment,,3W,Uncommon,White,4 	
+Circle of Protection: Blue,Enchantment,,1W,Common,White,5 	
+Circle of Protection: Green,Enchantment,,1W,Common,White,5 	
+Circle of Protection: Red,Enchantment,,1W,Common,White,5 	
+Circle of Protection: White,Enchantment,,1W,Common,White,5 	
+Consecrate Land,Enchant Land,,W,Uncommon,White,4 	
+Conversion,Enchantment,,2WW,Uncommon,White,4	
+Crusade,Enchantment,,WW,Rare,White,1 
+Death Ward,Instant,,W,Common,White,9 	
+Disenchant,Instant,,1W,Common,White,8 
+Farmstead,Enchant Land,,WWW,Rare,White,5 	
+Green Ward,Enchant Creature,,W,Uncommon,White,14 	
+Guardian Angel,Instant,,XW,Common,White,14 	
+Healing Salve,Instant,,W,Common,White,12 
+Holy Armor,Enchant Creature,,W,Common,White,9 	
+Holy Strength,Enchant Creature,,W,Common,White,6 	
+Island Sanctuary,Enchantment,,1W,Rare,White,1 	
+Karma,Enchantment,,2WW,Uncommon,White,4	
+Lance,Enchant Creature,,W,Uncommon,White,13 	
+Mesa Pegasus,Summon Pegasus,1/1,1W,Common,White,8 	
+Northern Paladin,Summon Paladin,3/3,2WW,Rare,White,1 	
+Pearled Unicorn,Summon Unicorn,2/2,2W,Common,White,10 	
+Personal Incarnation,Summon Avatar,6/6,3WWW,Rare,White,1 	
+Purelace,Interrupt,,W,Rare,White,2 	
+Red Ward,Enchant Creature,,W,Uncommon,White,9
+Resurrection,Sorcery,,2WW,Uncommon,White,4 
+Reverse Damage,Instant,,1WW,Rare,White,3
+Righteousness,Instant,,W,Rare,White,1
+Samite Healer,Summon Cleric,1/1,1W,Common,White,12
+Savannah Lions,Summon Lions,2/1,W,Rare,White,1
+Serra Angel,Summon Angel,4/4,3WW,Uncommon,White,2 
+Swords to Plowshares,Instant,,W,Uncommon,White,2
+Veteran Bodyguard,Summon Bodyguard,2/5,3WW,Rare,White,1 	
+Wall of Swords,Summon Wall,3/5,3W,Uncommon,White,4
+White Knight,Summon Knight,2/2,WW,Uncommon,White,2
+White Ward,Enchant Creature,,W,Uncommon,White,14 
+Wrath of God,Sorcery,,2WW,Rare,White,1
+Ankh of Mishra,Continuous Artifact,,2,Rare,Colorless,1
+Basalt Monolith,Mono Artifact,,3,Uncommon,Colorless,6 
+Black Lotus,Mono Artifact,,0,Rare,Colorless,1 
+Black Vise,Continuous Artifact,,1,Uncommon,Colorless,2 
+Celestial Prism,Mono Artifact,,3,Uncommon,Colorless,4
+Chaos Orb,Mono Artifact,,2,Rare,Colorless,8 
+Clockwork Beast,Artifact Creature,0/4,6,Rare,Colorless,1 
+Conservator,Mono Artifact,,4,Uncommon,Colorless,3 
+Copper Tablet,Continuous Artifact,,2,Uncommon,Colorless,4 	
+Crystal Rod,Poly Artifact,,1,Uncommon,Colorless,3 
+Cyclopean Tomb,Mono Artifact,,4,Rare,Colorless,3 
+Dingus Egg,Continuous Artifact,,4,Rare,Colorless,1
+Disrupting Scepter,Mono Artifact,,3,Rare,Colorless,1 
+Forcefield,Poly Artifact,,3,Rare,Colorless,1 	 
+Gauntlet of Might,Continuous Artifact,,4,Rare,Colorless,1 
+Glasses of Urza,Mono Artifact,,1,Uncommon,Colorless,4
+Helm of Chatzuk,Mono Artifact,,1,Rare,Colorless,2
+Howling Mine,Continuous Artifact,,2,Rare,Colorless,1
+Icy Manipulator,Mono Artifact,,4,Uncommon,Colorless,2
+Illusionary Mask,Poly Artifact,,2,Rare,Colorless,1
+Iron Star,Poly Artifact,,1,Uncommon,Colorless,4
+Ivory Cup,Poly Artifact,,1,Uncommon,Colorless,4
+Jade Monolith,Poly Artifact,,4,Rare,Colorless,1
+Jade Statue,Artifact,,4,Uncommon,Colorless,4
+Jayemdae Tome,Mono Artifact,,4,Rare,Colorless,1
+Juggernaut,Artifact Creature,5/3,4,Uncommon,Colorless,5
+Kormus Bell,Continuous Artifact,,4,Rare,Colorless,1 
+Library of Leng,Continuous Artifact,,1,Uncommon,Colorless,3 	
+Living Wall,Artifact Creature,0/6,4,Uncommon,Colorless,4 
+Mana Vault,Mono Artifact,,1,Rare,Colorless,1 
+Meekstone,Continuous Artifact,,1,Rare,Colorless,1 
+Mox Emerald,Mono Artifact,,0,Rare,Colorless,1
+Mox Jet,Mono Artifact,,0,Rare,Colorless,1 	
+Mox Pearl,Mono Artifact,,0,Rare,Colorless,1 	
+Mox Ruby,Mono Artifact,,0,Rare,Colorless,1
+Mox Sapphire,Mono Artifact,,0,Rare,Colorless,1
+Nevinyrral's Disk,Mono Artifact,,4,Rare,Colorless,1
+Obsianus Golem,Artifact Creature,4/6,6,Uncommon,Colorless,6
+Rod of Ruin,Mono Artifact,,4,Uncommon,Colorless, 	
+Sol Ring,Mono Artifact,,1,Uncommon,Colorless,2 	
+Soul Net,Poly Artifact,,1,Uncommon,Colorless,5	
+Sunglasses of Urza,Continuous Artifact,,3,Rare,Colorless,2 	
+The Hive,Mono Artifact,,5,Rare,Colorless,2	
+Throne of Bone,Poly Artifact,,1,Uncommon,Colorless,4 	
+Time Vault,Mono Artifact,,2,Rare,Colorless,1 	
+Wooden Sphere,Poly Artifact,,1,Uncommon,Colorless,4 	
+Badlands,Land,,,Rare,Colorless,1 		
+Bayou,Land,,,Rare,Colorless,1 	 	
+Forest,Land,,,Common,Colorless,15 	
+Forest,Land,,,Common,Colorless,15 	
+Island,Land,,,Common,Colorless,15	 	
+Island,Land,,,Common,Colorless,15 	 	
+Mountain,Land,,,Common,Colorless,15 	 	
+Mountain,Land,,,Common,Colorless,15 	 	
+Plains,Land,,,Common,Colorless,15 	 	
+Plains,Land,,,Common,Colorless,51 	 	
+Plateau,Land,,,Rare,Colorless,1 	
+Savannah,Land,,,Rare,Colorless,1 	
+Scrubland,Land,,,Rare,Colorless,1 	 	
+Swamp,Land,,,Common,Colorless,15 	
+Swamp,Land,,,Common,Colorless,15 	 	
+Taiga,Land,,,Rare,Colorless,1 	
+Tropical Island,Land,,,Rare,Colorless,1 	
+Underground Sea,Land,,,Rare,Colorless,1
